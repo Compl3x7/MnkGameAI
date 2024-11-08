@@ -192,7 +192,7 @@ public class MiniMax
 
     /**
      * State class to wrap information useful for the search
-     * @author Alexandre Rodrigues, Miguel Cabrita
+     * @author Alexandre Rodrigues
      * @version 1.0 29/11/2023
      */
     private static class State

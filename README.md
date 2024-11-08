@@ -1,6 +1,6 @@
 # MnkGameAI
 
-Forked project from an AI class assignment I made. The assignment consisted in implementing an AI for any instance of an m,n,k-game, a more generalized version of the infamous tic-tac-toe game.
+Forked project from an AI class assignment I made. The assignment consisted in implementing an AI for any instance of an m,n,k-game, a more generalized version of the famous tic-tac-toe game.
 
 From wikipidea [[1]](https://en.wikipedia.org/wiki/M,n,k-game) :
 "An m,n,k-game is an abstract board game in which two players take turns in placing a stone of their color on an m-by-n board, the winner being the player who first gets k stones of their own color in a row, horizontally, vertically, or diagonally. Thus, tic-tac-toe is the 3,3,3-game and free-style gomoku is the 15,15,5-game."
